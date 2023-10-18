@@ -1,0 +1,21 @@
+h1 {
+    font-size: 24px;
+    color: #333; /* Couleur du texte du titre */
+    text-align: center;
+}
+
+/* Style pour le bandeau de couleur */
+#bandeau {
+    background-color: #0074D9; /* Couleur du bandeau */
+    padding: 10px;
+    color: #FFF; /* Couleur du texte dans le bandeau */
+    text-align: center;
+}
+
+/* Style pour le pied de page de couleur */
+#pied-de-page {
+    background-color: #FF4136; /* Couleur du pied de page */
+    padding: 10px;
+    color: #FFF; /* Couleur du texte dans le pied de page */
+    text-align: center;
+}
